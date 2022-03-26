@@ -1,0 +1,14 @@
+
+h1{
+    margin: 3px 10px;
+}
+
+.navbar{
+    margin: 10px 10px;
+}
+
+#clockContainer{
+    height: 90vw;
+    width: 90vw;
+}
+
